@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe.config
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.pdb
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Form1.resources
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.Properties.Resources.resources
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.exe
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.pdb
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe.manifest
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\bin\Debug\Autoclicker.application
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.exe.manifest
+C:\Users\Dell\source\repos\Autoclicker\Autoclicker\obj\Debug\Autoclicker.application
