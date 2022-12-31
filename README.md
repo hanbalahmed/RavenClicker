@@ -1,3 +1,5 @@
+# [ARCHIVED]
+
 # Installation tutorial
 
 download from releases and extract. 
