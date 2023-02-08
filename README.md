@@ -1,6 +1,6 @@
 # 2.0.0 is now released
 base https://github.com/DaddySte/Merzi-Clicker/blob/main/MerziClicker.cpp
-2.0.0 adds gui change edit from link above
+2.0.0 adds gui change edit from link above(not a skid)
 
 
 
