@@ -1,2 +1,3 @@
 # recoded in c++
-gui soon
+## LATEST UPDATES
+- 2.1 -> adds shift disable and left clicker toggle (maximum cps 25)<br>
