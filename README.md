@@ -1,7 +1,6 @@
 # 2.0.0 is now released
-base https://github.com/DaddySte/Merzi-Clicker/blob/main/MerziClicker.cpp
-2.0.0 adds gui change edit from link above(not a skid)<br>
-source code is in 2.0.0 branch
+https://github.com/hanbalahmed/RavenClicker/tree/v2.0.0
+src code of all 2.0 updates
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
